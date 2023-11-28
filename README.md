@@ -44,4 +44,4 @@ perguntas do CEO.
 
 # Origem dos Dados
 - Os dados estão disponíveis publicamente no link abaixo:
-- (Olist)[https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
+- https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
