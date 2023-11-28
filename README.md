@@ -39,4 +39,9 @@ perguntas do CEO.
 # Ferramentas
 - Neste projeto, utilzo a IDE multiplataforma DBeaver para praticar as consultas.
 - Disponivel em: (DBeaver)[https://dbeaver.com/]
+  
 ![image](https://github.com/ronaldo-gamajr/perguntas_de_negocios_sql/assets/111927733/a388a499-56f0-49e6-a6bc-2e67e915989c)
+
+# Origem dos Dados
+- Os dados estão disponíveis publicamente no link abaixo:
+- (Olist)[https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
