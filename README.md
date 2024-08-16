@@ -1,8 +1,8 @@
 # Objetivo
 
-- Praticar o aprendizado em SQL por meio de perguntas de negócios reais feitas no curso de Analise de Dados da Comunidade DS.
+- Praticar o aprendizado em SQL por meio de perguntas de negócios reais.
 
-- Foco em resolver um problema de negócios, desde o planejamento da solução até a publicação do algoritmo de Machine Learning.
+- Foco em resolver um problema de negócios.
 
 # O Problema de Negócios
 
@@ -45,3 +45,7 @@ perguntas do CEO.
 # Origem dos Dados
 - Os dados estão disponíveis publicamente no link abaixo:
 - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+# Análise 
+
+- Acesse o notebook com as análises aqui: questoes_de_negocios_1.md
