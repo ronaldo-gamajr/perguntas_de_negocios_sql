@@ -48,4 +48,4 @@ perguntas do CEO.
 
 # Análise 
 
-- Acesse o notebook com as análises aqui: questoes_de_negocios_1.md
+- Acesse o notebook com as análises aqui: (Questões respondidas)[https://bit.ly/3Asj7xB]
