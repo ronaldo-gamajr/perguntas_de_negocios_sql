@@ -48,4 +48,4 @@ perguntas do CEO.
 
 # Análise 
 
-- Acesse o notebook com as análises aqui: (Questões respondidas)[https://bit.ly/3Asj7xB]
+- Acesse o notebook com as análises aqui: https://bit.ly/3Asj7xB
